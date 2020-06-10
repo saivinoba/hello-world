@@ -1,4 +1,5 @@
 # hello-world
 GitHub Initiation
 
-This is my first GitHub activity. Going through 'Read the guide'.
+Going through 'Read the guide' and learning how to use GitHub.
+At this point, I have created a branch and editing readme.
